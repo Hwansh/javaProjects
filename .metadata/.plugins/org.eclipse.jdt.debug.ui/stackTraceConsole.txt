@@ -1,2 +1,0 @@
-	vect[room] = new Rent(name, email);
-		}
